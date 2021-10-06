@@ -1,1 +1,1 @@
-# assortment_planning
+# Assortment Planning
